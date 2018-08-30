@@ -1,4 +1,4 @@
-package com.zackary;
+package com.zackary.gui;
 import java.awt.*;        // Using AWT layouts.
 import java.awt.event.*;  // Using AWT event classes and listener interfaces
 import javax.swing.*;     // Using Swing components and containers
@@ -42,8 +42,8 @@ public class SwingTesting extends JFrame
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		// Exit the program when the close-window button clicked
-		setTitle("Swing Test");  // "super" JFrame sets title
-		setSize(300, 150);   // "super" JFrame sets initial size
+		setTitle("Dungeons and Dragons Character Management");  // "super" JFrame sets title
+		setSize(1500, 1000);   // "super" JFrame sets initial size
 		setVisible(true);    // "super" JFrame shows
 	}
 
