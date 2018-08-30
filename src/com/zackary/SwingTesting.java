@@ -1,5 +1,5 @@
 package com.zackary;
-import java.awt.*;        // Using AWT layouts
+import java.awt.*;        // Using AWT layouts.
 import java.awt.event.*;  // Using AWT event classes and listener interfaces
 import javax.swing.*;     // Using Swing components and containers
 
